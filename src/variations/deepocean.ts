@@ -5,7 +5,7 @@ export const deepocean: IColors = {
     foreground: '#DEDFE4',
     background: '#011627',
     cursor: '#FFCC00',
-    comments: '#697098',
+    comments: '#808080',
     deprecated: '#FFC777A1',
     diffAdded: '#9CCC65',
     diffDeleted: '#EF5350',
@@ -14,7 +14,7 @@ export const deepocean: IColors = {
     base: {
         black: '#000000',
         blue: '#82AAFF',
-        brown: '#996667',
+        brown: '#B87A7B',
         cyan: '#7FDBCA',
         green: '#C3E88D',
         orange: '#F78C6C',
